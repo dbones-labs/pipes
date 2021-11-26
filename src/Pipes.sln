@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pipes", "Pipes\Pipes.csproj", "{EFE59BDE-9176-4094-921E-DC8C6F5F6C37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pipes.Tests", "Pipes.Tests\Pipes.Tests.csproj", "{2FB8E490-EC4C-40B2-BF45-4926B5FEBABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFE59BDE-9176-4094-921E-DC8C6F5F6C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE59BDE-9176-4094-921E-DC8C6F5F6C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE59BDE-9176-4094-921E-DC8C6F5F6C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE59BDE-9176-4094-921E-DC8C6F5F6C37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FB8E490-EC4C-40B2-BF45-4926B5FEBABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB8E490-EC4C-40B2-BF45-4926B5FEBABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB8E490-EC4C-40B2-BF45-4926B5FEBABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB8E490-EC4C-40B2-BF45-4926B5FEBABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0625B2A-DF63-4010-BDD6-D0F1F7F507D7}
+	EndGlobalSection
+EndGlobal
