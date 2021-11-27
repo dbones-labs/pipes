@@ -10,11 +10,10 @@
     <PackageTitle>Pipes</PackageTitle>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageTags>Middleware Pipeline</PackageTags>
-    <PackageLicenseUrl>http://opensource.org/licenses/Apache-2.0</PackageLicenseUrl>
+    <license>http://opensource.org/licenses/Apache-2.0</license>
     <PackageProjectUrl>https://github.com/dbones-labs/pipes</PackageProjectUrl>
-    <PackageIconUrl>https://avatars.githubusercontent.com/u/71238176</PackageIconUrl>
+    <PackageIcon>https://avatars.githubusercontent.com/u/71238176</PackageIcon>
     <RepositoryUrl>https://github.com/dbones-labs/pipes</RepositoryUrl>
-    <PackageReleaseNotes>This is a work in progress</PackageReleaseNotes>
     <IncludeSymbols>true</IncludeSymbols>
     <IncludeSource>false</IncludeSource>
   </PropertyGroup>
