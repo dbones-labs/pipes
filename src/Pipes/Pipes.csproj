@@ -12,7 +12,7 @@
     <PackageTags>Middleware Pipeline</PackageTags>
     <license>http://opensource.org/licenses/Apache-2.0</license>
     <PackageProjectUrl>https://github.com/dbones-labs/pipes</PackageProjectUrl>
-    <PackageIcon>https://avatars.githubusercontent.com/u/71238176</PackageIcon>
+    <PackageIconUrl>https://avatars.githubusercontent.com/u/71238176</PackageIconUrl>
     <RepositoryUrl>https://github.com/dbones-labs/pipes</RepositoryUrl>
     <IncludeSymbols>true</IncludeSymbols>
     <IncludeSource>false</IncludeSource>
