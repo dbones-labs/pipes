@@ -4,8 +4,8 @@
 [![docs](https://img.shields.io/badge/docs-pipes-blue)](https://dbones-labs.github.io/pipes/)
 
 [![dbones-labs](https://circleci.com/gh/dbones-labs/pipes.svg?style=shield)](https://app.circleci.com/pipelines/github/dbones-labs/pipes) 
-[![codecov](https://codecov.io/gh/dbones-labs/pipes/branch/master/graph/badge.svg?token=0AE8TL5PR3)](undefined) 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/efd93328aebe4815a5710df7bbce5d03)](https://www.codacy.com/gh/dbones-labs/pipes/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dbones-labs/pipes&amp;utm_campaign=Badge_Grade) 
+[![codecov](https://codecov.io/gh/dbones-labs/pipes/branch/master/graph/badge.svg?token=0AE8TL5PR3)](undefined)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fd426474c7b84cd7b8cd2f47d9d8eeb9)](https://www.codacy.com/gh/dbones-labs/pipes/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dbones-labs/pipes&amp;utm_campaign=Badge_Grade)
 
 
 Pipes allows you to implement middleware
