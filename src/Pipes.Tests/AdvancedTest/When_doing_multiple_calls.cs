@@ -24,7 +24,7 @@
             _injected = _provider.GetService<Injected>();
             _monitor = _provider.GetService<Monitor>();
 
-            _bus.Handle("OrderPlaced", new OrderPlaced()
+            _bus.Handle("OrderPlaced", new OrderPlaced
             {
                 CustomerId = "asd"
             }).Wait();
@@ -32,7 +32,7 @@
         };
 
         Because of = async () =>
-            await _bus.Handle("OrderPlaced", new OrderPlaced()
+            await _bus.Handle("OrderPlaced", new OrderPlaced
             {
                 CustomerId = "asd2"
             });
