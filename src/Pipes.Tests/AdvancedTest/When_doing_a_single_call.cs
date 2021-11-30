@@ -27,7 +27,7 @@ namespace Pipes.Tests.AdvancedTest
         };
 
         Because of = async() =>
-            await _bus.Handle("OrderPlaced", new OrderPlaced()
+            await _bus.Handle("OrderPlaced", new OrderPlaced
             {
                 CustomerId = "asd"
             });
